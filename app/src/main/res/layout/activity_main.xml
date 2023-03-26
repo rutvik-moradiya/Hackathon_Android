@@ -91,7 +91,7 @@
         android:backgroundTint="#400C42"
         android:drawableLeft="@drawable/ic_debit"
         android:drawableTint="@color/white"
-        android:text="Debit"
+        android:text="Trade"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnAgriculture" />
